@@ -10838,4 +10838,19 @@ footer p {
 .form-control {
   background-color: #f3f3f3;
 }
+
+.navbar-store {
+  padding-top: 15px;
+}
+
+@media (max-width: 991.98px) {
+  .navbar-store {
+    background-color: #fff !important;
+  }
+}
+
+.navbar-store .nav-item .nav-link {
+  margin-right: 10px;
+  margin-left: 10px;
+}
 /*# sourceMappingURL=main.css.map */
